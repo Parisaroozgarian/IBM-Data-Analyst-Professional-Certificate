@@ -1,5 +1,4 @@
 # Graded Quiz: JOIN Statements
----
 
 ## Question 1
 An INNER JOIN returns only the rows that match. (T/F)  
