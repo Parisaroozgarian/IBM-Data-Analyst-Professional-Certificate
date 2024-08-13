@@ -31,10 +31,10 @@ This project involves creating dashboards using IBM Cognos Analytics to visualiz
    - **Respondent Count by Gender and Education Level**: Stacked bar chart
 
 ### Dataset Used
-- **Demographics Dataset**: [m5_survey_data_demographics.csv](link_to_your_csv)
-- **Technologies Dataset**: [m5_survey_data_technologies_normalised.csv](link_to_your_csv)
+- **Demographics Dataset**: [m5_survey_data_demographics.csv](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%209%20%20Data%20Analyst%20Capstone%20Project/Data%20IBM%20Cognos%20lab/m5_survey_data_demographics.csv)
+- **Technologies Dataset**: [m5_survey_data_technologies_normalised.csv](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%209%20%20Data%20Analyst%20Capstone%20Project/Data%20IBM%20Cognos%20lab/m5_survey_data_technologies_normalised.csv)
 
 ## 🔗 Links to Dashboard PDFs
-- [Current Technology Usage Dashboard](https://github.com/Parisaroozgarian/Dashboard-IBM-Cognos-Analytics/blob/main/Dashboard%20IBM%20Cognos%20lab/_%20m5_survey_data_technologies_normalised.pdf)
-- [Demographics Dashboard](https://github.com/Parisaroozgarian/Dashboard-IBM-Cognos-Analytics/blob/main/Dashboard%20IBM%20Cognos%20lab/_%20m5_survey_data_demographics.pdf)
+- [Current Technology Usage Dashboard](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%209%20%20Data%20Analyst%20Capstone%20Project/Dashboard%20IBM%20Cognos%20lab/_%20m5_survey_data_technologies_normalised.pdf)
+- [Demographics Dashboard](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%209%20%20Data%20Analyst%20Capstone%20Project/Dashboard%20IBM%20Cognos%20lab/_%20m5_survey_data_demographics.pdf)
 
