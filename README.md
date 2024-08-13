@@ -120,7 +120,7 @@ I learned the fundamentals of working with databases and SQL in the context of d
 
 ---
 
-### [Course 7: Data Analysis with Python](link-to-your-repository)
+### [Course 7: Data Analysis with Python](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/829ff5f752179a10b305c5316bf00a544fef5468/Course%207%20Data%20Analysis%20with%20Python)
 
 **Overview:**  
 I explored data analysis techniques using Python. This course introduced data analysis and visualization techniques, focusing on using Python libraries to process, analyze, and visualize data effectively.
@@ -137,7 +137,7 @@ I explored data analysis techniques using Python. This course introduced data an
 
 ---
 
-### [Course 8: Data Visualization with Python](link-to-your-repository)
+### [Course 8: Data Visualization with Python](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/829ff5f752179a10b305c5316bf00a544fef5468/Course%208%20Data%20Visualization%20with%20Python)
 
 **Overview:**  
 This course deepened my understanding of data visualization, focusing on Python's visualization libraries. I learned to create sophisticated data visualizations and dashboards to communicate findings effectively.
@@ -154,7 +154,7 @@ This course deepened my understanding of data visualization, focusing on Python'
 
 ---
 
-### [Course 9: Data Analyst Capstone Project](link-to-your-repository)
+### [Course 9: Data Analyst Capstone Project](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/829ff5f752179a10b305c5316bf00a544fef5468/Course%209%20%20Data%20Analyst%20Capstone%20Project)
 
 **Overview:**  
 This capstone project course allowed me to apply the knowledge and skills I acquired throughout the program. I completed a comprehensive data analysis project, tackling a real-world data problem from start to finish.
