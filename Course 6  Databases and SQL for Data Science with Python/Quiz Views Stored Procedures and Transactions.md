@@ -1,5 +1,4 @@
 # Graded Quiz: Views, Stored Procedures, and Transactions
----
 
 ## Question 1
 A stored procedure can:  
