@@ -1,7 +1,5 @@
 # Graded Quiz: Advanced SQL for Data Engineers
 
----
-
 ## Question 1
 Consider the following question from the lab:  
 “Write and execute a SQL query to list the school names, community names, and average attendance for communities with a hardship index of 98.”
