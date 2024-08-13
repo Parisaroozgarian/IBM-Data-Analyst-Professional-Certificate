@@ -10,7 +10,7 @@ This mini-course is designed to help you demonstrate foundational Python skills 
 - Using Python libraries such as Pandas, Beautiful Soup, and Plotly within Jupyter Notebooks
 
 ## :chart_with_upwards_trend: Final Project
-[Extracting and Visualizing Stock Data - Final Assignment](https://github.com/Parisaroozgarian/PythonProject-FinalAssignment/blob/main/Final%20Assignment-ParisaRoozgarian.ipynb)
+[Extracting and Visualizing Stock Data - Final Assignment](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%205%20Python%20Project%20for%20Data%20Science/Final%20Assignment-ParisaRoozgarian.ipynb)
 
 - Define a Function that Makes a Graph
 - Question 1: Use yfinance to Extract Stock Data
