@@ -86,7 +86,7 @@ I learned Python programming basics and gained an understanding of Python's role
 
 ---
 
-### [Course 5: Python Project for Data Science](link-to-your-repository)
+### [Course 5: Python Project for Data Science](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%205%20Python%20Project%20for%20Data%20Science)
 
 **Overview:**  
 I applied the skills I learned in Python by creating a real-world project. This course provided an opportunity to work on a hands-on Python project, practicing data wrangling, data analysis, and visualization techniques.
@@ -103,7 +103,7 @@ I applied the skills I learned in Python by creating a real-world project. This 
 
 ---
 
-### [Course 6: Databases and SQL for Data Science with Python](link-to-your-repository)
+### [Course 6: Databases and SQL for Data Science with Python](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%206%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 **Overview:**  
 I learned the fundamentals of working with databases and SQL in the context of data science. This course covered how to create, query, and manipulate databases using SQL and Python, with a focus on data extraction and analysis.
