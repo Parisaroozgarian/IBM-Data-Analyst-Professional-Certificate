@@ -1,2 +1,1 @@
-# IBM-Data-Analyst
-@PythonProgramming @DataAnalysis @SpreadsheetSoftware @DataVisualization @BusinessAnalysis @Communication @BusinessCommunication @DataManagement @DataStructures  @HumanResources @Planning @SQL @BigData @GeneralStatistics
+# IBM Data Analyst Professional Certificate
