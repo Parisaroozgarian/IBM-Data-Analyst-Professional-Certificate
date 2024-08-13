@@ -1,5 +1,4 @@
 # Graded Assignment: Final Exam
----
 
 ## Question 1
 The ______ statement is called a query, and the output we get from executing the query is called a result set.  
