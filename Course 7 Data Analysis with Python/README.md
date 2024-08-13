@@ -11,7 +11,7 @@ This course involves using Python to explore many different types of data. It co
 - Using Pandas, Numpy and Scipy libraries for data manipulation
 
 ## :chart_with_upwards_trend: Final Project
-[House Sales in King County, USA](https://github.com/Parisaroozgarian/Data-Analysis-with-Python/blob/main/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite%20(2).ipynb)
+[House Sales in King County, USA](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/blob/main/Course%207%20Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.jupyterlite.ipynb)
 
 1. Instructions
 2. About the Dataset
