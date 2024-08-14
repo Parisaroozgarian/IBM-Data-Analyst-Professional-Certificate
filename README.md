@@ -18,7 +18,7 @@ I have demonstrated proficiency in applying different analytical techniques by a
 
 ## 📙 Course Structures
 
-### [Course 1: Introduction to Data Analytics](link-to-your-repository)
+### [Course 1: Introduction to Data Analytics](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%201%20Introduction%20to%20Data%20Analytics)
 
 **Overview:**  
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. I gained an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering and data mining.
@@ -35,7 +35,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 
 ---
 
-### [Course 2: Excel Basics for Data Analysis](link-to-your-repository)
+### [Course 2: Excel Basics for Data Analysis](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%202%20Excel%20Basics%20for%20Data%20Analysis)
 
 **Overview:**  
 This course provides basic working knowledge for using Excel spreadsheets for Data Analysis. It covers the first steps for working with spreadsheets and their usage in analyzing data, with videos, demos, and examples followed by step-by-step instructions.
@@ -52,7 +52,7 @@ This course provides basic working knowledge for using Excel spreadsheets for Da
 
 ---
 
-### [Course 3: Data Visualization and Dashboards with Excel and Cognos](link-to-your-repository)
+### [Course 3: Data Visualization and Dashboards with Excel and Cognos](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%203%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
 **Overview:**  
 This course covers the first steps in the development of data visualizations using spreadsheets and dashboards. I began telling a story with data by creating various types of charts in Excel and building dashboards with Cognos Analytics.
@@ -69,7 +69,7 @@ This course covers the first steps in the development of data visualizations usi
 
 ---
 
-### [Course 4: Python for Data Science, AI & Development](link-to-your-repository)
+### [Course 4: Python for Data Science, AI & Development](https://github.com/Parisaroozgarian/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%204%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 **Overview:**  
 I learned Python programming basics and gained an understanding of Python's role in data science. This course introduced Python and covered the basics of the language, focusing on working with data, automation, and building simple algorithms.
